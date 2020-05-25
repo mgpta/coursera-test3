@@ -7,7 +7,8 @@ nav{text-align: center;
 background-color: orange;
 color: brown;
 width: 240px;
-float: left;}
+float: right;
+margin: 10px;}
 
 a{text-decoration: none;
    color: black;
@@ -21,6 +22,7 @@ h1{
     background-color: blue;
 	color: white;
 	text-align: center;
+	clear: both;
 }
 h2{padding: 15px;
 	font-weight: 600;
