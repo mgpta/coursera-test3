@@ -1,14 +1,15 @@
 body{
 	background-color: yellow;
 	font-family: forte, cursive;
+	font-size: medium; 
 }
 
 nav{text-align: center;
 background-color: orange;
 color: brown;
 width: 240px;
-float: right;
-margin: 10px;}
+margin-left: 1000px;
+font-size: large;}
 
 a{text-decoration: none;
    color: black;
@@ -24,6 +25,20 @@ h1{
 	text-align: center;
 	clear: both;
 }
+article{
+	animation: colorname 10s ease-in 4s 5;
+	-webkit-animation: colorname 10s ease-in 4s 5;
+}
+
+@keyframes colorname{
+	0%{color: black;}
+	50%{color: orange;}
+	100%{color: blue;}}
+
+	@-webkit-keyframes{
+	0%{color: black;}
+	50%{color: orange;}
+	100%{color: blue;}}
 h2{padding: 15px;
 	font-weight: 600;
 	background-color: red;
