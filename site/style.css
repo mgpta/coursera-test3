@@ -6,13 +6,13 @@ body{
 nav{text-align: center;
 background-color: orange;
 color: brown;
-width: 240px;}
+width: 240px;
+float: left;}
 
-/*ul{text-decoration: none;
-color: blue;
-padding-right: 20px;
-width: 170px;
-}*/
+a{text-decoration: none;
+   color: black;
+   font-weight: bolder;
+    }
 
 h1{
 	padding: 20px;
