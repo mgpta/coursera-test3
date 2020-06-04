@@ -1,11 +1,22 @@
-body{background-color: green;}
-h1{color: orange;
-text-align: center;}
+body{background-color: #2289ff;
+     font-family: gabriola;}
+.jumbotron{color: #897541;
+text-align: center;
+text-shadow: 5px 2px 4px grey;}
 a{text-decoration: none;
 font-weight: bolder;
 font-size: 20px;
 color: yellow;}
-footer{color: white;
+footer{color: green;
+	font-weight: bolder;
+
 text-align: center;
 }
-p{padding: 30px 10px 10px 10px;}
+.ab{padding: 30px 10px 10px 10px;}
+.well{
+	background-color: blue;
+}
+.bc{
+	font-variant: small-caps;
+	color: red;
+}

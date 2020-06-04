@@ -1,32 +1,22 @@
 body{
-	background-color: purple;
+	background-color: blue;
+	font-family: "Gill Sans Mt";
 }
-h1{ padding: 20px;
-	color: green;
-	text-align: center;
-	border: 1px dashed blue;
-	background-color: yellow;
-	width: auto;
+.jumbotron{
+    background-color: yellow;
 }
-h4{color: red;
-text-decoration: underline;
-font-weight: bolder;
-font-size: 20px;}
-h3{color: orange;}
-p{font-size: 18px;
-	padding-bottom: 15px;
-padding-left: 10px;
-color: white;}
-span{
-	color: black;
-	font-weight: bold;
+span {
+	font-weight: bolder;
+	font-variant: small-caps;
 }
-.btn{
-	background-color: black;
-	text-align: center;
-	margin-left: 80%;
+.well{
+	background-color: orange;
 }
-a{ 
- text-align: center;
- text-decoration: none;
- color: white; }
+li{
+	color: brown;
+	font-size:18px;
+}
+h4{
+	font-weight: bolder;
+	text-align: right;
+}
