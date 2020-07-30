@@ -19,4 +19,23 @@ body{
 #caro{
 	height: 10%;
 	width: 100%;
+
+}
+#d2{
+	border-right: 20%;
+	border-left: 20%;
+	box-sizing: border-box;
+	text-align: center;
+	background-color: #008081;
+	font-family: cursive;
+
+
+
+
+}
+#p2{
+	text-decoration: underline;
+	font-weight: bolder;
+	color: red;
+
 }
