@@ -1,0 +1,22 @@
+body{
+	font-family: helvetica;
+	background-color: #00FFFF;
+}
+#p1{
+	font-size: 50px;
+	text-shadow: 4px 4px 4px red;
+	color: brown;
+	text-decoration: blink;
+
+}
+.jumbotron{
+	background-color:#008080;
+
+}
+#d1{
+	color: yellow;
+}
+#caro{
+	height: 10%;
+	width: 100%;
+}
